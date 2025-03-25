@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Code\AU\Assembly\LAB5_2\LAB5_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\Debug\LAB5_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB5_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB5_2.map</FILE>
+  <FILE>LAB5_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN_LOOP><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>26</LINE></MAIN_LOOP>
+  <INKREMENT_PORTB><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>57</LINE></INKREMENT_PORTB>
+  <DEKREMENT_PORTB><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>64</LINE></DEKREMENT_PORTB>
+  <SWAP_PORTB><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>71</LINE></SWAP_PORTB>
+  <COM_PORTB><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>78</LINE></COM_PORTB>
+  <DIVIDE_BY_8><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>85</LINE></DIVIDE_BY_8>
+  <DIVIDE_BY_7><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>94</LINE></DIVIDE_BY_7>
+  <AND_PORTB><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>111</LINE></AND_PORTB>
+  <OR_PORTB><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>118</LINE></OR_PORTB>
+  <DELAY_2S><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>125</LINE></DELAY_2S>
+  <WAIT_RELEASE><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>136</LINE></WAIT_RELEASE>
+  <DIVIDE_DONE><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>106</LINE></DIVIDE_DONE>
+  <DIVIDE_LOOP><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>100</LINE></DIVIDE_LOOP>
+  <DELAY_OUTER_LOOP><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>127</LINE></DELAY_OUTER_LOOP>
+  <DELAY_INNER_LOOP><FILE>C:\Code\AU\Assembly\LAB5_2\LAB5_2\main.asm</FILE><LINE>129</LINE></DELAY_INNER_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
