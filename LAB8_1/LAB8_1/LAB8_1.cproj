@@ -110,6 +110,15 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Compile Include="led.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="led.h">
+      <SubType>compile</SubType>
+    </Compile>
+>>>>>>> c2ff37146716cf6e6526a5dc5c31588df07febe2
     <Compile Include="main.c">
       <SubType>compile</SubType>
     </Compile>
